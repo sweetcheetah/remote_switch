@@ -9,8 +9,8 @@ int secondsOn = 0;
 
 /************************* WiFi Access Point *********************************/
 
-#define WLAN_SSID       "cheetah"
-#define WLAN_PASS       "sweetcheetah"
+#define WLAN_SSID       ""
+#define WLAN_PASS       ""
 
 /************************* Adafruit.io Setup *********************************/
 
